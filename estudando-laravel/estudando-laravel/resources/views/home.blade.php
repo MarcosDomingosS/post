@@ -7,7 +7,7 @@
     <title>Gerencie seus posts</title>
 </head>
 <body>
-    <a href="/posts">Posts</a>
-    <a href="/posts/create">Crie seus posts</a>
+    <a href="/posts">Posts</a> <!-- Acessa a página Posts, para ver o seus posts-->
+    <a href="/posts/create">Crie seus posts</a> <!-- Acessa a página Create, para criar seu post-->
 </body>
 </html>
